@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justman123
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning html,css,js...
+- 👀 I’m interested in Software Developer
+- 🌱 I’m currently learning C...
 - 📫 How to reach me @gunmankim007@gmail.com
 
 <!---
