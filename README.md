@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justman123
-- 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning C...
+- 👀 I’m interested in AI-Developer
+- 🌱 I’m currently learning DL...
 - 📫 How to reach me gunmankim007@gmail.com
 
 <!---
